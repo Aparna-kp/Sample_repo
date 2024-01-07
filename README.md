@@ -13,3 +13,11 @@
 - git branch
 - git checkout
 - git status
+
+# 07-01-2024
+
+- HTML basics
+- para heading tag
+- img anchor style tag
+- sub super script , special characters
+- list , table , form
