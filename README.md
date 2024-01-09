@@ -21,3 +21,10 @@
 - img anchor style tag
 - sub super script , special characters
 - list , table , form
+
+# 08-01-2024
+
+- HTML5
+- DOCTYPE
+- Metadata
+
