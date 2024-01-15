@@ -28,3 +28,21 @@
 - DOCTYPE
 - Metadata
 
+# 09-01-2024
+
+- Quotation 
+- Citation Elements
+- abb, address, bdo, cite, q, code, cbd, samp, var
+
+# 13-01-2024
+
+- HTML & CSS
+- inline , internal , external css
+- img styling
+
+# 15-01-2024
+
+- div
+- semantic tags 
+- header, nav, section, footer
+- video
