@@ -46,3 +46,11 @@
 - semantic tags 
 - header, nav, section, footer
 - video
+-  CSS 
+
+# 16-01-2024
+
+- text decoration
+- font , bg 
+- line height
+- Box model -> Margin, Border, Padding, Content
