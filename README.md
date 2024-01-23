@@ -54,3 +54,9 @@
 - font , bg 
 - line height
 - Box model -> Margin, Border, Padding, Content
+
+# 18-01-2024
+
+- background
+- border 
+- div , span
